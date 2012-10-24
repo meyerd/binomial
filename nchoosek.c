@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-#define USE_GMP 1
+#ifndef USE_GMP
+#define USE_GMP 0
+#endif
 
 #if USE_GMP == 1
 #include <gmp.h>

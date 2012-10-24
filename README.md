@@ -8,6 +8,7 @@ as it was just a quick hack. Optionally by setting
     #define USE_GMP 1
 
 in
+
     nchoosek.c
 
 the [GNU Multiple Precision Library](http://libgmp.org) can

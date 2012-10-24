@@ -11,5 +11,5 @@ in
 
     nchoosek.c
 
-the [GNU Multiple Precision Library](http://libgmp.org) can
+the [GNU Multiple Precision Library](http://gmplib.org) can
 be used to calculate arbitrary large binomial coefficients.
